@@ -1,11 +1,7 @@
-# LSE Data Analytics Online Career Accelerator
-# DA301: Advanced Analytics for Organisational Impact
-
-# Practical activity: Build your first predictive model in R
+# Build a predictive model in R
 
 ###############################################################################
 
-# This is the solution to the practical activity.
 
 # We’ve looked at two methods of using R in predictive analytics – time-series
 # analysis and linear regression. Both of these use existing or past data to
