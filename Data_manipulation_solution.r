@@ -1,15 +1,6 @@
-# LSE Data Analytics Online Career Accelerator
-# DA301: Advanced Analytics for Organisational Impact
-
-# Practical activity: Data manipulation in R
+# Data manipulation in R
 
 ###############################################################################
-# This is the solution to the practical activity
-
-# So far, you have learned to explore a data set and manipulate data based on 
-# the I4U case study and the travel mode data set. Now it's time to apply your 
-# learning in a practical activity. You will continue with the I4U case study 
-# but with a new data set this time. 
 
 # Ryan has been tasked with performing data wrangling to help launch I4U’s new
 # car insurance policy. Ryan's manager (Callan Lee) has asked him to continue 
