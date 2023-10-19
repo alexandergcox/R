@@ -1,16 +1,8 @@
-# LSE Data Analytics Online Career Accelerator
-
-# DA301: Advanced Analytics for Organisational Impact
-
-# Demonstration video: Explore the data set with R
+# Explore the data set with R
 
 ###############################################################################
 
-# This R script accompanies the demonstration video on how to explore a data 
-# set with R. In this demonstration, you will explore a step-by-step process to
-# explore the travel mode data set as Ryan performed it. 
-
-# In the video, you will:
+# This R script shows how to
 #  - review how to import a CSV file into RStudio and install libraries
 #  - learn how to sense-check the data set with tidyverse package
 #  - explore how to address questions while exploring the data set.
