@@ -1,18 +1,6 @@
-# LSE Data Analytics Online Career Accelerator
-# DA301: Advanced Analytics for Organisational Impact
-
-# Practical activity: Using ggplot2 to visualise data
+# Using ggplot2 to visualise data
 
 ###############################################################################
-# This is the solution to the practical activity
-
-# So far, we've seen how ggplot's grammar of graphics can help us make powerful
-# and informative graphics through a relatively simple layering technique,
-# where each new line of code brings another aesthetic or explanatory component
-# to a plot or graphic. In this practical activity, you'll use ggplot to plot
-# select data from the insurance data set we used earlier in the week, to 
-# examine relationships between variables and to practise presenting insights 
-# to stakeholders.  
 
 # Happy with your analysis of its clients' BMI values, I4U has asked that you
 # continue analysing the data - this time focusing on visualisations and
