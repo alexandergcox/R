@@ -1,10 +1,4 @@
-# LSE Data Analytics Online Career Accelerator
-# DA301: Advanced Analytics for Organisational Impact
-
-# Practical activity: Choosing the right graphic
-
 ###############################################################################
-# This is the solution to the practical activity
 
 # As we've seen, ggplot2 provides us with a wide array of visualisation types 
 # to explore, analyse, and share data. Additionally, following the grammar of 
