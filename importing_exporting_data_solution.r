@@ -1,10 +1,6 @@
-# LSE Data Analytics Online Career Accelerator
-# DA301: Advanced Analytics for Organisational Impact
-
-# Practical activity: Importing and exporting data in R
+# Importing and exporting data in R
 
 ###############################################################################
-# This is the solution to the practical activity.
 
 # Data sets often come in file types like CSV and TXT, and being able to 
 # correctly load these data sets into workspaces allows them to be cleaned and
