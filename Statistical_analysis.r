@@ -1,10 +1,6 @@
-# LSE Data Analytics Online Career Accelerator
-# DA301: Advanced Analytics for Organisational Impact
-
-# Practical activity: Statistical analysis in R
+# Statistical analysis in R
 
 ###############################################################################
-# This is the solution to the practical activity
 
 # We've spent some time exploring statistics in R, from descriptive methods to
 # inferential techniques. First, we explored measures of central tendency, then
