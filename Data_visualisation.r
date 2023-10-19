@@ -1,13 +1,9 @@
-# LSE Data Analytics Online Career Accelerator
-
-# DA301: Advanced Analytics for Organisational Impact
-
-# Demonstration video: Creating plots with ggplot2
+# Creating plots with ggplot2
 
 ###############################################################################
 
-# This R script accompanies the demonstration video on how to produce 
-# high-quality visualisations in R. In the video, you will learn:
+# This R script shows how to produce 
+# high-quality visualisations in R. This code show
 #  - the difference between qplot and ggplot
 #  - how to apply the grammar of graphics.
 
