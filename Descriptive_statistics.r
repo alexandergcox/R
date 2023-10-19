@@ -1,13 +1,9 @@
-# LSE Data Analytics Online Career Accelerator
-
-# DA301: Advanced Analytics for Organisational Impact
-
-# Demonstration video: Descriptive statistics using R
+# Descriptive statistics using R
 
 ###############################################################################
 
-# This R script accompanies the demonstration video on how to compute 
-# descriptive statistics using R. In this video, you'll learn:
+# This R script shows how to compute 
+# descriptive statistics using R and shows
 #  - how to compute descriptive statistics
 #  - how to visualise the data
 #  - how to determine normality of the data. 
