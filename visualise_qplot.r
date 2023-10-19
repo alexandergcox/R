@@ -1,10 +1,6 @@
-# LSE Data Analytics Online Career Accelerator
-# DA301: Advanced Analytics for Organisational Impact
-
-# Practical activity: Creating and querying a data frame
+# Creating and querying a data frame
 
 ###############################################################################
-# This is the solution to the practical activity
 
 # We have spent some time exploring the basic data types and structures of R. 
 # First, we identified data types in R, including numeric, integer, character, 
