@@ -1,17 +1,7 @@
-# LSE Data Analytics Online Career Accelerator
+#  Data manipulation with R
 
-# DA301: Advanced Analytics for Organisational Impact
+############################################################################### 
 
-# Demonstration video: Data manipulation with R
-
-###############################################################################
-
-# This R script accompanies the demonstration video on how to manipulate a data 
-# set with R. In this demonstration, you will explore a step-by-step breakdown 
-# of how to manipulate the travel mode data set, as performed by Ryan. 
-# Follow along for a coherent learning experience. 
-
-# In this video, you'll learn:
 #  - how to perform data manipulation with tidyverse packages
 #  - how to address questions while performing data manipulation. 
 
