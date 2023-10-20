@@ -1,15 +1,7 @@
-# LSE Data Analytics Online Career Accelerator
-
-# DA301: Advanced Analytics for Organisational Impact
-
-# Demonstration video: Simple linear regression in R
+# Simple linear regression in R
 
 ###############################################################################
 
-# This R script accompanies the demonstration video on how to run
-# regression analysis in R. 
-#
-# In this video, you'll learn:
 #  - how to build a simple linear regression model in R
 #  - how to perform log transformation on variables to improve model fit
 #  - how to test the efficiency of regression models and make predictions.
