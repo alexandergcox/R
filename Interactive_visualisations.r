@@ -1,15 +1,10 @@
-# LSE Data Analytics Online Career Accelerator
-
-# DA301: Advanced Analytics for Organisational Impact
-
-# Demonstration video: Interactive visualisations in R
+# Interactive visualisations in R
 
 ###############################################################################
 
-# This R script accompanies the demonstration video on how to run
-# create interactive visualisations in R. 
+# This R script shows how to create interactive visualisations in R. 
+
 #
-# In this video, you'll learn:
 #  - how to build a simple linear regression model in R
 #  - how to perform log transformation on variables to improve model fit
 #  - how to test the efficiency of regression models and make predictions.
